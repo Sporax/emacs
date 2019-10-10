@@ -1,0 +1,56 @@
+
+;; ----- smex-history -----
+(
+ customize
+ customize-mode
+ cd
+ shell
+ markdown-mode
+ describe-key
+ indent-region
+)
+
+;; ----- smex-data -----
+(
+ (line-number-mode . 2)
+ (linum-mode . 2)
+ (set-face-foreground . 2)
+ (isearch-query-replace . 5)
+ (copy-to-buffer . 1)
+ (copy-rectangle-to-register . 1)
+ (python-mode . 3)
+ (goto-line . 1)
+ (kill-buffer . 2)
+ (make-directory . 1)
+ (xterm-paste . 1)
+ (cd . 24)
+ (comment-region . 44)
+ (uncomment-region . 13)
+ (indent-region . 15)
+ (shell . 35)
+ (shrink-window . 1)
+ (describe-key . 5)
+ (repeat . 4)
+ (mkdir . 3)
+ (erc-tls . 3)
+ (desktop-change-dir . 1)
+ (python-check . 1)
+ (package-refresh-contents . 1)
+ (cider-jack-in . 2)
+ (cider-restart . 2)
+ (cider-refresh . 2)
+ (apropos . 1)
+ (TeX-mode . 1)
+ (LaTeX-mode . 12)
+ (list-colors-display . 1)
+ (erc-xdcc-add-file . 1)
+ (replace-regexp . 5)
+ (package-list-packages . 5)
+ (package-install . 1)
+ (markdown-mode . 3)
+ (ispell . 3)
+ (table-span-cell . 1)
+ (flyspell-mode . 1)
+ (customize-mode . 1)
+ (customize . 1)
+)
